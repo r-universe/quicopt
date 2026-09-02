@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/quicopt/quicopt.r-universe.dev
 	branch = HEAD
+[submodule "quicopt"]
+	path = quicopt
+	url = https://github.com/Quicopt/quicopt-r
