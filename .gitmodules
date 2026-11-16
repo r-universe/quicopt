@@ -5,4 +5,4 @@
 [submodule "quicopt"]
 	path = quicopt
 	url = https://github.com/Quicopt/quicopt-r
-	branch = *release
+	branch = v0.8.1
